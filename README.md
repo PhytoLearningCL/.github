@@ -36,7 +36,7 @@ Developing Artificial Intelligence tools for the **automatic phenotyping** of re
 
 We strongly believe in Open Science. Here you will find our public scripts, pipelines, and tools:
 
-- 📊 **[github_pytholearning](https://github.com/PhytoLearning/github_pytholearning):** Our main open-source hub where research labs share data analysis scripts (R/Python) and phenotyping tools. *(Private until officially published)*
+- 📊 **[github_pytholearning](https://github.com/PhytoLearningC/github_pytholearning):** Our main open-source hub where research labs share data analysis scripts (R/Python) and phenotyping tools. *(Private until officially published)*
 
 ---
 
