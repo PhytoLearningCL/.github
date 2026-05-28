@@ -9,11 +9,12 @@
 <div align="center">
   <a href="mailto:comunicaciones@phytolearning.cl"><img src="https://img.shields.io/badge/Email-Contact_Us-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://phytolearning.cl/"><img src="https://img.shields.io/badge/Website-phytolearning.cl-00A98F?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
+  <a href="https://phytolearning.cl/"><img src="https://img.shields.io/badge/PHYTOLEARNING.CL-00A98F?style=for-the-badge" alt="PhytoLearning" /></a>
 </div>
 
 <br>
 
-Welcome to the official GitHub profile of **PhytoLearning**! 
+Welcome to the official GitHub profile of **PhytoLearning**!
 
 We are a research initiative focused on understanding plant adaptation, stress responses, and developing cutting-edge AI tools for agriculture and phenotyping. Our goal is to make our datasets and analysis scripts open to the community to foster collaboration among research labs.
 
@@ -32,11 +33,24 @@ Developing Artificial Intelligence tools for the **automatic phenotyping** of re
 
 ---
 
+## 🛠️ Projects & Tools
+
+Projects developed by members of the PhytoLearning community. Original authorship resides with each developer.
+
+| Project | Description | Author | Language |
+|---|---|---|---|
+| [AgroXiao](https://github.com/PhytoLearningCL/AgroXiao) | Firmware para red mesh agrícola LoRa (XIAO ESP32S3) — sensores NPK, temperatura y humedad de suelo | [@BIOLIMON](https://github.com/BIOLIMON) | C++ |
+| [phytoboard](https://github.com/PhytoLearningCL/phytoboard) | Dashboard de monitoreo de datos fitosanitarios en tiempo real | [@BIOLIMON](https://github.com/BIOLIMON) | TypeScript |
+| [pgrlab-site](https://github.com/PhytoLearningCL/pgrlab-site) | Sitio web del laboratorio PGR — ciencia de plantas, genómica y recursos de investigación | [@BIOLIMON](https://github.com/BIOLIMON) | TypeScript |
+| [CDapp](https://github.com/PhytoLearningCL/CDapp) | Aplicación web con IA generativa para análisis de datos de cultivos (Gemini + React) | [@BIOLIMON](https://github.com/BIOLIMON) | TypeScript |
+
+---
+
 ## 🚀 Open Science & Repositories
 
 We strongly believe in Open Science. Here you will find our public scripts, pipelines, and tools:
 
-- 📊 **[github_pytholearning](https://github.com/PhytoLearningCL/github_pytholearning):** Our main open-source hub where research labs share data analysis scripts (R/Python) and phenotyping tools. *(Private until officially published)*
+- 📊 **[github_pytholearning](https://github.com/PhytoLearningCL/github_pytholearning-):** Our main open-source hub where research labs share data analysis scripts (R/Python) and phenotyping tools. *(Private until officially published)*
 
 ---
 
