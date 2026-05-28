@@ -41,6 +41,7 @@ Projects developed by members of the PhytoLearning community. Original authorshi
 |---|---|---|---|
 | [Auto_Stomata](https://github.com/PhytoLearningCL/Auto_Stomata) | Extracción de parámetros morfológicos automatizada de estomas en imágenes microscópicas | [@pythonmarti](https://github.com/pythonmarti) | Python |
 | [stress-ready](https://github.com/PhytoLearningCL/stress-ready) | Herramientas y pipelines de análisis de respuesta a estrés en plantas | [@JMALab](https://github.com/JMALab) | Python / R |
+| [BNI3](https://github.com/PhytoLearningCL/BNI3) | Pipeline de inferencia y análisis de redes booleanas para binarización de datos, inferencia de reglas y simulación de atractores dinámicos | [@lucianofrancoo](https://github.com/lucianofrancoo) | Python |
 | [AgroXiao](https://github.com/PhytoLearningCL/AgroXiao) | Firmware para red mesh agrícola LoRa (XIAO ESP32S3) — sensores NPK, temperatura y humedad de suelo | [@BIOLIMON](https://github.com/BIOLIMON) | C++ |
 | [phytoboard](https://github.com/PhytoLearningCL/phytoboard) | Dashboard de monitoreo de datos fitosanitarios en tiempo real | [@BIOLIMON](https://github.com/BIOLIMON) | TypeScript |
 | [CDapp](https://github.com/PhytoLearningCL/CDapp) | Aplicación web con IA generativa para análisis de datos de cultivos (Gemini + React) | [@BIOLIMON](https://github.com/BIOLIMON) | TypeScript |
