@@ -47,6 +47,7 @@ Projects developed by members of the PhytoLearning community. Original authorshi
 | [CDapp](https://github.com/PhytoLearningCL/CDapp) | Aplicación web con IA generativa para análisis de datos de cultivos (Gemini + React) | [@BIOLIMON](https://github.com/BIOLIMON) | TypeScript |
 | [PRINT](https://github.com/PhytoLearningCL/PRINT) | Herramienta web para la integración, filtrado y visualización de redes de regulación génica en plantas | [@gabsga](https://github.com/gabsga) | TypeScript |
 | [Scripts](https://github.com/PhytoLearningCL/Scripts) | Scripts generales de bioinformática y regulación génica | [@JMALab](https://github.com/JMALab) | Jupyter Notebook |
+| [VidalLab](https://github.com/PhytoLearningCL/VidalLab) | Pipelines de análisis bioinformático y biología de sistemas para genómica de plantas y modelamiento de redes | [@ibioChile](https://github.com/ibioChile) | Python |
 | [Consistently_drougth_regulated_genes](https://github.com/PhytoLearningCL/Consistently_drougth_regulated_genes) | Genes consistentemente regulados bajo sequía en distintas especies | [@JMALab](https://github.com/JMALab) | Markdown |
 | [pgrlab-site](https://github.com/PhytoLearningCL/pgrlab-site) | Sitio web del laboratorio PGR — ciencia de plantas, genómica y recursos de investigación | [@BIOLIMON](https://github.com/BIOLIMON) | TypeScript |
 | [R-no-muerde](https://github.com/PhytoLearningCL/R-no-muerde) | Guía introductoria de R y recursos de entrenamiento para biólogos | [@JMALab](https://github.com/JMALab) | R |
