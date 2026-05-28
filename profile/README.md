@@ -39,10 +39,17 @@ Projects developed by members of the PhytoLearning community. Original authorshi
 
 | Project | Description | Author | Language |
 |---|---|---|---|
+| [Auto_Stomata](https://github.com/PhytoLearningCL/Auto_Stomata) | Extracción de parámetros morfológicos automatizada de estomas en imágenes microscópicas | [@pythonmarti](https://github.com/pythonmarti) | Python |
+| [stress-ready](https://github.com/PhytoLearningCL/stress-ready) | Herramientas y pipelines de análisis de respuesta a estrés en plantas | [@JMALab](https://github.com/JMALab) | Python / R |
 | [AgroXiao](https://github.com/PhytoLearningCL/AgroXiao) | Firmware para red mesh agrícola LoRa (XIAO ESP32S3) — sensores NPK, temperatura y humedad de suelo | [@BIOLIMON](https://github.com/BIOLIMON) | C++ |
 | [phytoboard](https://github.com/PhytoLearningCL/phytoboard) | Dashboard de monitoreo de datos fitosanitarios en tiempo real | [@BIOLIMON](https://github.com/BIOLIMON) | TypeScript |
-| [pgrlab-site](https://github.com/PhytoLearningCL/pgrlab-site) | Sitio web del laboratorio PGR — ciencia de plantas, genómica y recursos de investigación | [@BIOLIMON](https://github.com/BIOLIMON) | TypeScript |
 | [CDapp](https://github.com/PhytoLearningCL/CDapp) | Aplicación web con IA generativa para análisis de datos de cultivos (Gemini + React) | [@BIOLIMON](https://github.com/BIOLIMON) | TypeScript |
+| [Scripts](https://github.com/PhytoLearningCL/Scripts) | Scripts generales de bioinformática y regulación génica | [@JMALab](https://github.com/JMALab) | Jupyter Notebook |
+| [Consistently_drougth_regulated_genes](https://github.com/PhytoLearningCL/Consistently_drougth_regulated_genes) | Genes consistentemente regulados bajo sequía en distintas especies | [@JMALab](https://github.com/JMALab) | Markdown |
+| [pgrlab-site](https://github.com/PhytoLearningCL/pgrlab-site) | Sitio web del laboratorio PGR — ciencia de plantas, genómica y recursos de investigación | [@BIOLIMON](https://github.com/BIOLIMON) | TypeScript |
+| [R-no-muerde](https://github.com/PhytoLearningCL/R-no-muerde) | Guía introductoria de R y recursos de entrenamiento para biólogos | [@JMALab](https://github.com/JMALab) | R |
+| [CienciaPublica](https://github.com/PhytoLearningCL/CienciaPublica) | Recursos y materiales de divulgación científica pública | [@JMALab](https://github.com/JMALab) | Markdown |
+
 
 ---
 
